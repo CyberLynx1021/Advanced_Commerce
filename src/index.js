@@ -9,7 +9,7 @@ import { faBars, faShoppingCart  } from '@fortawesome/free-solid-svg-icons'
 
 library.add(faBars, faShoppingCart)
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById('roots by me'));
 ReactDOM.render(
   <React.StrictMode>
     <App />
