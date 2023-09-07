@@ -16,7 +16,7 @@ const Nav = () => {
             </a>
           </li>
           <li className="nav__list">
-            <a href="/" className="nav__link">
+            <a href="/" className="nav__link">s
               Books
             </a>
           </li>
